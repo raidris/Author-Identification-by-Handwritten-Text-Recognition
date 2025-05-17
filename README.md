@@ -137,28 +137,6 @@ Select an effective neural network and training method to distinguish handwritin
 - **Initial Training**: Frozen layers.
 - **Fine-tuning**: Gradual unfreezing and learning rate adjustments.
 
-### Visualization
-
-- Combined history for plots.
-- Plotted training/validation accuracy and loss.
-
----
-
-## Results Presentation
-
-### Learning Curves
-
-Visual trends of training/validation loss and accuracy.
-
-### Confusion Matrix
-
-Post-training matrix shows misclassifications.
-
-### Decisions & Considerations
-
-- ResNet-50v2 chosen for balance.
-- Tested other models like EfficientNetB0-B2, VGG16, custom ResNet-18-v2.
-
 ---
 
 ## Choosing the Development Strategy
